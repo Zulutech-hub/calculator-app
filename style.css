@@ -38,6 +38,14 @@ form input{
     margin: 7px;
 }
 
-form .display{
-    
+form .display-here input{
+    text-align: right;
+    width: 100%;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
+}
+
+form input.equal{
+    width: 130px;
 }
